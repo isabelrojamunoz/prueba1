@@ -1,5 +1,5 @@
 body {
-    background-color: aquamarine;
+    background-color: antiquewhite;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #000000;
     text-align: justify;
@@ -22,5 +22,5 @@ main {
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: chartreuse;
+    background-color: gray;
 }
