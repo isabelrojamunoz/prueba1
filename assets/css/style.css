@@ -6,9 +6,21 @@ body {
 }
 h2 {
     text-decoration: underline;
+    padding-top: 30px;
+}
+
+h3 {
+    padding-top: 20px;
 }
 
 main {
     width: 70%;
     padding-left: 15%;
+}
+
+.musica {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: chartreuse;
 }
