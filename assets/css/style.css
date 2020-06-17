@@ -5,14 +5,10 @@ body {
     text-align: justify;
 }
 h2 {
-    padding: 20px;
-    text-align: center;
     text-decoration: underline;
-}
-p {
-    padding: 20px;
 }
 
 main {
     width: 70%;
+    padding-left: 15%;
 }
